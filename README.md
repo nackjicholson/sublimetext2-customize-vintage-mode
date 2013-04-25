@@ -3,6 +3,8 @@ sublimetext2-customize-vintage-mode
 
 > Accompanying Sublime Text 2 configurations for my blog post on setting up Sublime in vintage mode.
 
+[The Blog](http://projectpoppycock.com/key-mapping-and-vintage-mode-setup-for-sublime-text-2)
+
 # Customize key mapping and Vintage Mode setup for Sublime Text 2
 
 If you're impatient or just want a reference, my Sublime configurations have been made available at this [Github Repo][1]
