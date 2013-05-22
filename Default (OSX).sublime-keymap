@@ -47,6 +47,11 @@
 	// Open Default Vintage Keymap
 	{ "keys": ["super+/"], "command": "open_file", "args": {"file": "${packages}/Vintage/Default.sublime-keymap"} },
 
+	// Convert Spaces to Tabs 
+	{ "keys": ["alt+tab"], "command": "unexpand_tabs", "args": {"set_translate_tabs": true} },
+	// Convert Tabs to Spaces
+	{ "keys": ["alt+shift+tab"], "command": "expand_tabs", "args": {"set_translate_tabs": true} },
+
 
 	// sublime - group layouts
 	// ,w one column
