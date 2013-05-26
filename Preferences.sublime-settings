@@ -1,10 +1,12 @@
 {
-	"font_size": 15.0,
-	"ignored_packages":
-	[
-	],
-	"tab_size": 2,
-	"vintage_start_in_command_mode": true,
-	"word_wrap": "true",
-	"wrap_width": 120
+  // Package Control: Install Package -> "Dayle Rees Color Schemes"
+  // "color_scheme": "Packages/Dayle Rees Color Schemes/Github.tmTheme",
+  // Great Monospace code font from http://www.dafont.com/liberation-mono.font
+  // "font_face": "Liberation Mono",
+  "font_size": 15.0,
+  "ignored_packages": [],
+  "tab_size": 2,
+  "vintage_start_in_command_mode": true,
+  "word_wrap": "true",
+  "wrap_width": 120
 }
