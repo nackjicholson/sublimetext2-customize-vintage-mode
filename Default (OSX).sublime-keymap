@@ -12,6 +12,16 @@
 		]
 	},
 
+
+	// toggle comments
+	{ "keys": [",",","], "command": "toggle_comment",
+		"context":
+		 [
+			 { "key": "setting.command_mode", "operand": true },
+			 { "key": "setting.is_widget", "operand": false }
+		 ]
+	 },
+
 	// Window controls
 
 	// `,cc` close window
